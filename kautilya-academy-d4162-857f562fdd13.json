@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kautilya-academy-d4162",
+  "private_key_id": "857f562fdd136f166a2d717b6bc2b7bd85c45ccc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCu0ympHQRFVdjX\nMYT9o4OUZ7+35X9MRI2nksKs5/Z5CzGmsX+SyNAq0GATcdb+I/WaoUQwQySZEBDy\nt5znJzr2PWUJwrp5x++OzXNXKrNfxoqMj3qDHv8oQjCUMSkMPCU9JdqYStpiysma\nnVrtvruFTL4lYQjnskZTpHrCZIviLM+v5lgoMRUwVFFb+4qew6HuKmP2pnEOTdDI\no7S06e04MHZx0tAL09B+jyi30rPKD7RjOuFdvmquK0fHIpwHH7KnX421FfeMgKxY\nb+NAwkUG1/stUN4XlYNeucoB3KzfZiC3ou1r+f8En+DN2+Bq+zAUUvem+JliQ64z\nr2y2Oc4FAgMBAAECggEATZmJanloxeX/JDXk1DjaVOtgXB5QTOg5AGLSarFj5AKl\n/VnYSK0+SWLI4pirV49am1Jt1AZZnl9VRodd6/Sr5VUHHjgDUb7/hKGJSu23RRH5\nub6OINmHZLVMntrbX4Tq+qNsziCbozJkHm8uR01cKyUPWcQikcW+Fa5ylwrOVIvW\nsCaUyfe8mIlJYGVfy7WBPavswjOGnuQFJ+4KGUwj4m3Gd5Gv2Wd4o3WVZHNYp0CR\n+zcqgeS29rTjrwlPJ3I7dR7vHqzBbaLla3TysK+DULF0zMsDvIfFXCuh1HrDvgrI\nXi/vayK/b35Aryz6Vawg3xwmtSPM2JmiAAglUpXWGQKBgQDqZz26fexVCtDT1laL\nyFjZi81Ep+tkkS1n7VMW4in9kC4ZqjMp28u/k1Oos4h5xfvavoH2nsp32JEB0c+a\nVVAovDmeuOUvE5vBGefizM19jvx9lu0QT5ItzHhIcB42D2LaIXLiTT0zEtD84ZKC\ntaCySMeZJgEUIKa1UylWMtN9qwKBgQC+7qxoyclZIMw3cH/oz0uIjeWy4xVME23+\nDpem7bYxUaV1diY6ZGqufQiOe+6WpHFnYe+NMI3AkoK4ZdF3A2CGLOH+SI95ICG8\ntI6rzCsYLrhmSDo6B1gZd0h513jenQ35Jz+tGynBsuyUtTwrgYQKn7FDxlgBwlJg\nMfpT4UVTDwKBgF6qu39qA9yEtboYQnPJwjh6AbjMqIDBMTlb28bOKG9Dn5q15lvt\nbOg+M/daKrAjiYfakNptXw/v4wB9H/8QnYMWIZ88xTKyFKF0OPacCBHBga+nGK8R\ns9PTVHDM9yaWKDI4eBF1aFYML2MyJt2rRO87/YCYnK7oUOvCXlt1w3xpAoGASisI\nykPodTjqW3bWGSe9XbRRUCYqNb0ucwxUGMIqjgn7Th+xRemQD2v+kOrPibEjZFeE\n6MG9rtq68MqMjcDAFB8HQvII2bKDqHwzF8Vd0C0F8KWKCNSlgm71tm7fQwqbTPfU\nInh0xgutHy8vym6rTj0ubPd1ZGmJ+lgvt7nAZj0CgYARsz0MMou82CZiFJO0acA3\nR44uRBZnXNgY+qAjTr6mf0scZw2k7LMX4YL1Y7L2OJM/n79wU6v/f2syUO/GFZ6N\nkumKji+dSXLmnFwjhXJNDJezRRxE6WW73BDp8nfLB5JA+xwIyXH3Fxb3aTQMGHPX\nmkwLKISh8k4y+iO0KN36SA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "main-account@kautilya-academy-d4162.iam.gserviceaccount.com",
+  "client_id": "111072611436159323581",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/main-account%40kautilya-academy-d4162.iam.gserviceaccount.com"
+}
