@@ -3,9 +3,6 @@ from soldier import soldier
 
 firebase = FC.firebaseMain
 
-
-
-
 db = firebase.database()
 print(db)
 
